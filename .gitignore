@@ -1,2 +1,6 @@
 # Compiled class file
 *.class
+
+
+# Interactive mode test
+ interactiveTestResult*
